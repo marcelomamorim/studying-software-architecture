@@ -12,6 +12,7 @@ Repositório dedicado ao estudo de arquitetura de software e engenharia de softw
 - Refactoring;
 - Design Patterns;
 - Pattern-Oriented Software Architecture - Volume 1;
+- Engenharia de Software Moderna;
 
 2) Componentes conectados - Connected Components:
 
@@ -19,6 +20,7 @@ Repositório dedicado ao estudo de arquitetura de software e engenharia de softw
 - Fundamentals of Software Architecture;
 - Enterprise Integration Patterns;
 - Pattern-Oriented Software Architecture - Volume 4;
+- Engenharia de Software Moderna;
 
 3) Sistemas inteiros - Entire Systems:
 
